@@ -1,6 +1,16 @@
 [![MasterHead](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Feiz6suns7qvaxoscfxwq.gif)]
 <h1 align="center">Hi 👋, I'm Ayush Gahlot - Genkie </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<p>
+🌱 I’m currently learning DSA , Full Stack Development , UI/UX
+
+💬 Ask me about Tailwind , UI/UX , WEB development , YOU
+
+📫 How to reach me Ayushgahlot8690@gmail.com 
+
+⚡ Fun Fact - i am Awesome 
+
+</p>
 <img align="right" alt="Coding" width="400" src="https://www.finoit.com/wp-content/uploads/2022/09/java-coding-best-practices-1024x683.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gahlotayush&label=Profile%20views&color=0e75b6&style=flat" alt="gahlotayush" /> </p>
