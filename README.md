@@ -1,11 +1,11 @@
 ![MasterHead](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Feiz6suns7qvaxoscfxwq.gif)
 <h1 align="center">Hi 👋, I'm Ayush Gahlot - Genkie </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" height="350" src="https://cdn.dribbble.com/users/1127192/screenshots/3805025/media/8223ce7a2d63ed821c0e1a1c30ceb5ab.gif">
+<!-- <img align="right" alt="Coding" height="350" src="https://cdn.dribbble.com/users/1127192/screenshots/3805025/media/8223ce7a2d63ed821c0e1a1c30ceb5ab.gif"> -->
 <p>
 🌱 I’m currently learning DSA , Full Stack Development , UI/UX
 
-💬 Ask me about Tailwind , UI/UX , WEB development , YOU
+
 </p>
 
 
