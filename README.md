@@ -11,7 +11,7 @@
 
 
 <p>
-📫 How to reach me Ayushgahlot8690@gmail.com 
+📫 How to reach me WorkwithAyushgahlot@gmail.com 
 
 ⚡ Fun Fact - i am Awesome 
 
